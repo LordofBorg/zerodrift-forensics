@@ -1,0 +1,12 @@
+# Evidence collections & triage bundles
+evidence_*
+*.dmp
+*.tar.gz
+
+# Binaries & local artifacts
+ce
+*.sha256
+*.swp
+*.pyc
+__pycache__/
+.DS_Store
